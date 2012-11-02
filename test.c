@@ -1,6 +1,6 @@
 
 /*
-   Tests of Madgwick IMU/AHRS numeric stability
+   Madgwick IMU/AHRS Numeric Stability Tests
 
    Copyright (C) 2012 Tobias Simon
 
